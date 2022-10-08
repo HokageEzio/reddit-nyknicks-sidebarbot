@@ -32,7 +32,7 @@ class Config:
       client_id,
       client_secret,
       password,
-      subreddit_name='nyknicks',
+      subreddit_name='knicklejerk',
       username='nyknicks-automod',
       user_agent='python-praw'):
     self.client_id = client_id
